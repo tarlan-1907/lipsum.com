@@ -1,9 +1,9 @@
 @font-face {
     font-family: DauphinPlain;
-    src: url(/assest/fonts/DauphinPlain.eot?#iefix) format("embedded-opentype"),
-      url(/assest/fonts/DauphinPlain.woff) format("woff"),
-      url(/assest/fonts/DauphinPlain.ttf) format("truetype"),
-      url(/assest/fonts/DauphinPlain.svg#DauphinPlain) format("svg");
+    src: url(.../LIPSUM/assest/fonts/DauphinPlain.eot?#iefix) format("embedded-opentype"),
+      url(.../LIPSUM/assest/fonts/DauphinPlain.woff) format("woff"),
+      url(.../LIPSUM/assest/fonts/DauphinPlain.ttf) format("truetype"),
+      url(.../LIPSUM/assest/fonts/DauphinPlain.svg#DauphinPlain) format("svg");
     font-weight: 400;
     font-style: normal;
   }
